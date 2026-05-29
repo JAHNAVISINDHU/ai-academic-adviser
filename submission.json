@@ -1,0 +1,21 @@
+{
+  "testUserId": "eval_user_123",
+  "testConversation": [
+    {
+      "role": "user",
+      "content": "My goal is to major in bioinformatics."
+    },
+    {
+      "role": "assistant",
+      "content": "That's a great field! It combines biology, computer science, and statistics. Bioinformatics graduates are in high demand across pharmaceutical companies, research institutions, and tech firms. I'd recommend taking foundational courses in molecular biology, programming (Python is essential), and statistics early on. Would you like help mapping out a 4-year course plan?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please! I also really enjoy machine learning and data analysis."
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect — machine learning and data analysis are core pillars of modern bioinformatics! Your interests align beautifully with the field. I'd suggest courses like: Intro to Bioinformatics, Computational Biology, Machine Learning, Biostatistics, and Genomic Data Science. Many bioinformatics programs also have capstone research projects — these are excellent for building your portfolio. Have you looked into any research labs at your university working on genomics or proteomics?"
+    }
+  ]
+}
